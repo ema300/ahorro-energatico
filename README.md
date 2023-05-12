@@ -1,1 +1,1 @@
-# ahorro-energatico
+# ahorro-energetico
